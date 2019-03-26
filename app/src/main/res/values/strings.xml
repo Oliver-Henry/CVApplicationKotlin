@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CVApplicationKotlin</string>
+    <string name="applicant_name">Name: </string>
+    <string name="summary">Summary: </string>
+    <string name="skills">Skills: </string>
+    <string name="experience">Experience: </string>
+
+</resources>
